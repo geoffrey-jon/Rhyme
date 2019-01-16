@@ -1,1 +1,7 @@
 .vs/
+Engine/Win32/
+Engine/x64/
+Game/Win32/
+Game/x64/
+Win32/
+x64/
